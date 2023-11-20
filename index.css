@@ -20,7 +20,8 @@
 }
 
 .page-wrapper {
-  background: linear-gradient(120deg, #d83c3c, #d6d64c, #105810);
+  /* background: linear-gradient(120deg, #d83c3c, #d6d64c, #105810); */
+  background-image: url(https://media.giphy.com/media/Tk9mGeRPwnR2CryFQp/giphy.gif);
   padding-top: 100px;
   min-height: 100vh;
 }

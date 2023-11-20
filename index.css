@@ -116,7 +116,7 @@
 .card .open-tail:before {
   content: "";
   display: block;
-  border-top: 18px solid #d24242;
+  border-top: 18px solid rgb(15, 145, 251);
   border-left: 30px solid transparent;
   position: absolute;
   left: 0;
@@ -130,13 +130,13 @@
   top: 18px;
   left: 0;
   border-top: 18px solid transparent;
-  border-right: 30px solid #d24242;
+  border-right: 30px solid rgb(15, 145, 251);
 }
 
 .card .open-main {
   display: inline-block;
   line-height: 36px;
-  background: #d24242;
+  background: rgb(15, 145, 251);
   padding: 0 3px 0 0;
 }
 
